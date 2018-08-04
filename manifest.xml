@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <manifest version="1.0" type="device" target-level="2">
+=======
+<manifest version="1.0" type="device" target-level="3">
+>>>>>>> a91c30c... X00P: Update target-level in manifest
     <hal format="hidl">
         <name>android.hardware.audio</name>
         <transport>hwbinder</transport>
